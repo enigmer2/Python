@@ -1,0 +1,9 @@
+//Simple Operations
+
+//Python has the capability of carrying out calculations.
+//Enter a calculation directly into the print statement:
+print(2 + 2)
+print(5 + 4 - 3)
+//Try It Yourself
+
+//The spaces around the plus and minus signs here are optional (the code would work without them), but they make it easier to read.
