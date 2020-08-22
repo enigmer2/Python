@@ -1,0 +1,14 @@
+//Printing Text
+
+//The print statement can also be used to output multiple lines of text.
+
+//For Example:
+print('Hello world!')
+print('Hello world!')
+print('Spam and eggs...')
+//Try It Yourself
+
+//Each print statement outputs text from a new line.
+//Python code often contains references to the comedy group Monty Python.
+//This is why the words, "spam" and "eggs" are often used as placeholder 
+//variables in Python where "foo" and "bar" would be used in other programming languages.
