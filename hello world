@@ -1,0 +1,12 @@
+//Your First Program
+
+//Let's start off by creating a short program that displays "Hello world!".
+//In Python, we use the print statement to output text.
+//Tap Try It Yourself and see it in action:
+print('Hello world!')
+//Try It Yourself
+
+//Congratulations! You have written your first program.
+
+//The print statement needs to be followed by parentheses, which enclose the output we want to generate.
+//Run, save and share your Python code on our Code Playground without installing any additional software.
